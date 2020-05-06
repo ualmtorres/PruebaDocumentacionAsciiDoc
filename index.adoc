@@ -34,37 +34,37 @@ Settings.png
 
 Se desplegará un menú en la izquierda. A continuación, selecciona Change password.
 
-Servicios que ofrece OpenStack-STIC
+# Servicios que ofrece OpenStack-STIC
 
 OpenStack-STIC es el proyecto de Cloud-STIC que ofrece Infraestructura como servicio. Pese a ser el proyecto de base sobre el que se sustenta el cloud del STIC, lo consideramos como un componente más.
 
 Actualmente, OpenStack-STIC ofrece:
 
-Servicios para la creación de Máquinas y Aulas virtuales.
+* Servicios para la creación de Máquinas y Aulas virtuales.
 
-Servicios de Almacenamiento, tanto de bloques como volúmenes NFS.
+* Servicios de Almacenamiento, tanto de bloques como volúmenes NFS.
 
-Balanceadores como servicio.
+* Balanceadores como servicio.
 
 OpenStack-STIC es OpenStack Stein e incluye los componentes:
 
-Keystone: Identificación
+* Keystone: Identificación
 
-Glance: Imágenes
+* Glance: Imágenes
 
-Nova: Cómputo
+* Nova: Cómputo
 
-Placement: Reserva y gestión de recursos
+* Placement: Reserva y gestión de recursos
 
-Neutron: Networking
+* Neutron: Networking
 
-Neutron Load Balancer: Balanceadores
+* Neutron Load Balancer: Balanceadores
 
-Horizon: Interfaz web
+* Horizon: Interfaz web
 
-Cinder: Almacenamiento de bloques
+* Cinder: Almacenamiento de bloques
 
-Manila: Almacenamiento compartido
+* Manila: Almacenamiento compartido
 
 
 [quote,AsciiDoc Syntax Quick Reference]
